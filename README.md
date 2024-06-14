@@ -4,7 +4,7 @@ This repository contains my assignments for [Coursera's Mathematics for Machine 
 ## Contents
 
 1. **Linear Algebra**
-   - **Gaussian Elimination**:[Linear Algebra](Linear Algebra/) 
+   - **Gaussian Elimination**:[Linear_Algebra](Linear_Algebra/) 
 
 ## About the Course
 

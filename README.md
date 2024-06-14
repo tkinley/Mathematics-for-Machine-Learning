@@ -1,11 +1,10 @@
 # Coursera Mathematics for Machine Learning
 
-This repository contains my assignments for [https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science](Coursera's Mathematics for Machine Learning and Data Science Specialization) 
-
+This repository contains my assignments for [Coursera's Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science).
 ## Contents
 
 1. **Linear Algebra**
-   - **Gaussian Elimination**:[Linear Algebra](Gaussian_Elimination.py) 
+   - **Gaussian Elimination**:[Linear Algebra](Linear Algebra/) 
 
 ## About the Course
 

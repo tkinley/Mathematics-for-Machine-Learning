@@ -1,6 +1,6 @@
 # Coursera Mathematics for Machine Learning
 
-This repository contains my assignments for Coursera's Mathematics for Machine Learning and Data Science Specialization[https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science]. 
+This repository contains my assignments for (Coursera's Mathematics for Machine Learning and Data Science Specialization)[https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science]. 
 
 ## Contents
 

@@ -5,7 +5,7 @@ This repository contains my assignments for [https://www.coursera.org/specializa
 ## Contents
 
 1. **Linear Algebra**
-   - **Gaussian Elimination**: 
+   - **Gaussian Elimination**:[Linear Algebra](Gaussian_Elimination.py) 
 
 ## About the Course
 
